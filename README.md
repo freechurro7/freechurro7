@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freechurro7
-- 👀 I’m interested in Data Engineering, Network Security and Quantitative analysis 
+- 👀 I’m interested in ML Ops, AI Research, Network Security and Business Intelligence Analytics
 - 🌱 I’m currently learning Python, R, SQL and Network Security 
 - 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me agbaoyeadedeji78@gmail.com
